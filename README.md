@@ -18,7 +18,7 @@ Options are : ```['miners', 'profitability', 'systemStatus', 'blocks']``` .  See
 ```javascript
 const prohashing = require("prohashing")
 const connection = new prohashing({ 
-	apiKey: "0a7a6fade943f7b6b9e96b4d1516bfcc733b5158af18d1b43aeec7e45a238c02", 
+	apiKey: "7b10effd1b66a2f14fbb6130a4fd3b629ae6355f198607224903b5d62fc76718", 
 	debug: false ,
 	subscribe : ['systemStatus', 'miners']
 })
